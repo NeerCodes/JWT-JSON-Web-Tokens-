@@ -149,8 +149,5 @@ jwt.verify(token, secret, (err, decoded) => {
 
 ---
 
-![JWT Flow Diagram](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/jwt-flow-diagram.png)
+![Basic JWT Auth Flow](https://github.com/user-attachments/assets/325ed3dd-8c5a-4aab-bdc8-955d6b5ca3fa)
 
-> Diagram: JWT lifecycle showing authentication, token issuance, usage, and refresh steps.
-
-Let me know if you want to add this to a README or update the diagram URL!

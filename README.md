@@ -1,5 +1,7 @@
 # JWT (JSON Web Tokens) 🛡️
 
+![Basic JWT Auth Flow](https://github.com/user-attachments/assets/325ed3dd-8c5a-4aab-bdc8-955d6b5ca3fa)
+
 ## What is JWT?
 
 JWT (JSON Web Token) is a compact, URL-safe means of representing claims to be transferred between two parties. It is often used for **authentication** and **authorization** in web applications.
@@ -149,5 +151,5 @@ jwt.verify(token, secret, (err, decoded) => {
 
 ---
 
-![Basic JWT Auth Flow](https://github.com/user-attachments/assets/325ed3dd-8c5a-4aab-bdc8-955d6b5ca3fa)
+
 
